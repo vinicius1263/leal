@@ -15,7 +15,7 @@ public class Scheuduler {
     private void chamandoExecutar() {
         try {
             Pessoa pessoa = new Pessoa();
-            pessoa.falar();
+//            pessoa.falar();
         }catch (Exception e){
             System.out.println(e);
         }
